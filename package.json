@@ -1,0 +1,30 @@
+{
+  "name": "@writetome51/file-reader-service",
+  "version": "0.0.1",
+  "description": "Abstract TypeScript/JavaScript class that simplifies javascript's built-in FileReader class.  Has a getContents() method that begins the reading of a file and returns the result",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/file-reader-service.git"
+  },
+  "keywords": [
+    "current",
+    "date",
+    "dates",
+    "times",
+    "array"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/file-reader-service/issues"
+  },
+  "homepage": "https://github.com/writetome51/file-reader-service#readme",
+  "devDependencies": {},
+  "dependencies": {
+  }
+}
