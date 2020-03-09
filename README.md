@@ -30,7 +30,7 @@ constructor(
 ```
 
 ## Properties
-```
+```ts
 isReading: boolean (read-only)
 ```
 
