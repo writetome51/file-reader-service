@@ -12,11 +12,12 @@
     "url": "git+https://github.com/writetome51/file-reader-service.git"
   },
   "keywords": [
-    "current",
-    "date",
-    "dates",
-    "times",
-    "array"
+    "abstract",
+    "class",
+    "blob",
+    "file",
+    "reader",
+    "read"
   ],
   "author": "Steve Thompson",
   "license": "MIT",
