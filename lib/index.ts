@@ -1,12 +1,14 @@
 /********************
 Simplifies javascript's built-in FileReader class
 ( https://developer.mozilla.org/en-US/docs/Web/API/FileReader ).
+
+ Remember that FileReader only works in a browser environment.
  ********************/
 
 
 export abstract class FileReaderService {
 
-	readonly __data: FileReader;
+	private readonly __data: FileReader;
 	private __isReading = false;
 
 
