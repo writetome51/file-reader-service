@@ -31,7 +31,7 @@ constructor(
 
 ## Properties
 ```ts
-isReading: boolean (read-only)
+isReading: boolean // read-only
 ```
 
 ## Methods
@@ -45,13 +45,8 @@ async getContents(file: Blob): Promise<any>
 `npm i @writetome51/file-reader-service`
 
 ## Loading
-```ts
-// if using TypeScript:
+```js
 import { FileReaderService } from '@writetome51/file-reader-service';
-	
-// if using ES5 JavaScript:
-var FileReaderService = 
-    require('@writetome51/file-reader-service').FileReaderService;
 ```
 
 ## License

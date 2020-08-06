@@ -2,6 +2,7 @@
 Simplifies javascript's built-in FileReader class
 ( https://developer.mozilla.org/en-US/docs/Web/API/FileReader ).
  ********************/
+
 export declare abstract class FileReaderService {
 
 	private __readMethod;
